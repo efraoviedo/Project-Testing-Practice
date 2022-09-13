@@ -1,0 +1,19 @@
+{
+  "name": "project-testing-practice",
+  "version": "1.0.0",
+  "description": "Pruebas de testing en javascript",
+  "main": "sum.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efraoviedo/Project-Testing-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efraoviedo/Project-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/efraoviedo/Project-Testing-Practice#readme"
+}
